@@ -1,0 +1,1102 @@
+{
+    "tiles": [
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -8.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -7.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -7.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -7.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -6.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -6.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -5.5,
+                "y": -1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -4.5,
+                "y": -1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -4.5,
+                "y": -2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -3.5,
+                "y": -2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -2.5,
+                "y": -2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 7.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 6.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 6.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 6.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 6.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 5.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 4.5,
+                "y": -1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 4.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 3.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 3.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -0.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 0.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 1.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 2.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 2.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 1.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 0.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -0.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -1.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -2.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -2.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -3.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": -0.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 0.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 1.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 1.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 2.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 2.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 4.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 5.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 5.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 8.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 9.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 9.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 10.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 11.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 12.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 12.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 13.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 7.5,
+                "y": -1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 10.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 10.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 11.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 11.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 10.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 10.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 11.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 12.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Corner Tile",
+            "position": {
+                "x": 12.5,
+                "y": -1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": 9.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": 8.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": 8.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": 7.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": 5.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": 4.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": 2.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -4.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -5.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -6.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -8.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -9.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -9.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -10.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -10.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -11.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -11.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -12.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -12.5,
+                "y": 7.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -13.5,
+                "y": 7.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 7.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Ground Tile",
+            "position": {
+                "x": -14.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -13.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -13.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -12.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -11.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -11.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -10.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -9.5,
+                "y": 2.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -10.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -11.5,
+                "y": 3.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -11.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -10.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -10.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -9.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -8.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -7.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -5.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -4.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -3.5,
+                "y": -0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -3.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -2.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -1.5,
+                "y": 0.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -1.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -0.5,
+                "y": 1.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -0.5,
+                "y": 4.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -3.5,
+                "y": 5.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -3.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -4.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -5.5,
+                "y": 6.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -5.5,
+                "y": 7.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -6.5,
+                "y": 7.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -7.5,
+                "y": 8.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -6.5,
+                "y": 9.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -5.5,
+                "y": 9.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        },
+        {
+            "prefabName": "Wall Tile",
+            "position": {
+                "x": -4.5,
+                "y": 9.5,
+                "z": 0.0
+            },
+            "parentPath": "Environment/Grid Tiles"
+        }
+    ]
+}
